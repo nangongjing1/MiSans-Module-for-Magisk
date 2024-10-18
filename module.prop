@@ -1,6 +1,6 @@
 id=MIUI_Font_Patch
-name=MiSans for MIUI
-version=v1.1.1
+name=MIUI字体
+version=v1.2.1
 versionCode=20241018
 author=南宫镜
 description=替换系统字体为MiSans，MIUI12.5补全计划！
