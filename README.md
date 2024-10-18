@@ -12,4 +12,4 @@
  - 专用版本需要逆向分析各ROM的字体实现以达到最佳效果。
  - 本模块最低支持 Magisk 20.4。
  - MIUI 之外的 ROM 未经测试，真诚地建议使用通用版本。
- - A7以上版本无需修改 /system/etc/fonts.xml 内容，由于A5-A6 的字体配置文件包括fonts.xml 和 fallback_fonts.xml，所以二者需要同时修改[具体参照这里](https://www.daogebangong.com/zh/articles/detail/Tutorial%20deeply%20interprets%20the%20Android%20font%20mechanism%20and%20handles%20font%20replacement%20and%20thickness%20classification%20for%20Android%20phones.html)
+ - A7以上版本无需修改`/system/etc/fonts.xml`内容，由于A5-A6 的字体配置文件包括`fonts.xml`和`fallback_fonts.xml`，所以二者需要同时修改[具体参照这里](https://www.daogebangong.com/zh/articles/detail/Tutorial%20deeply%20interprets%20the%20Android%20font%20mechanism%20and%20handles%20font%20replacement%20and%20thickness%20classification%20for%20Android%20phones.html)
