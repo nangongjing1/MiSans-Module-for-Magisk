@@ -3,4 +3,4 @@ name=MIUI字体
 version=v1.2.1
 versionCode=20241108
 author=南宫镜
-description=替换系统字体为MiSans，MIUI12.5补全计划！
+description=替换系统字体为MiSans，MIUI12.5补全计划！支持多重字重。
