@@ -1,6 +1,6 @@
 id=MiSans_Font_Patch
 name=MiSans for Android
-version=v1.1
-versionCode=20241017
+version=v1.2
+versionCode=20250618
 author=南宫镜
-description=替换系统字体为MiSans。支持多重字重。
+description=①替换系统字体为MiSans ②加入Android 16 Emoji字体
