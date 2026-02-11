@@ -1,6 +1,6 @@
 id=MIUI_Font_Patch
 name=MIUI字体
-version=v1.3.0
-versionCode=20251126
+version=v1.3.1
+versionCode=20260212
 author=南宫镜
-description=①替换系统字体为MiSans ②支持MIUI系统级多重字重 ③加入Android 16 Emoji字体
+description=①替换系统字体为MiSans ②支持MIUI系统级多重字重 ③加入Android 17 Emoji(2.051) 字体
